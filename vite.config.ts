@@ -4,7 +4,7 @@ import { defineConfig } from 'vitest/config'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/simulador-renda-fixa/',
+  base: '/comparador_renda_fixa/',
   plugins: [react(), tailwindcss()],
   test: {
     globals: true,
