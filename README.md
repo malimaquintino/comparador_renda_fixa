@@ -38,3 +38,6 @@ npm run dev    # servidor de desenvolvimento
 npm test       # 85 testes unitários
 npm run build  # build de produção
 ```
+
+GIT HUB PAGES 
+https://malimaquintino.github.io/comparador_renda_fixa/
